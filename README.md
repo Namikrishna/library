@@ -1,1 +1,1 @@
-# library
+# django_local_library
